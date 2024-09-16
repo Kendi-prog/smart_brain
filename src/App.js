@@ -76,7 +76,7 @@ class App extends Component {
   // Your PAT (Personal Access Token) can be found in the Account's Security section
   const PAT = '6bc0ea2ec1464a5f85fd4e4dfa68b2a3';
   // Specify the correct user_id/app_id pairings
-  // Since you're making inferences outside your app's scope
+  // Since you're making inferences outside your app's scopenp
   const USER_ID = 'clarifai';
   const APP_ID = 'main';
   // Change these to whatever model and image URL you want to use
